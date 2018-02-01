@@ -12,4 +12,4 @@ chmod u+x kernelInfo.command
 3)    feel free to press Control + C in order to stop the process once you're satisfied
 4)    Great! Now you'll be able to read all the necessary information in a nice .txt file in the "kernelInfo" directory within      the <DIRECTORY>! Double-click it to read it in TextEdit or your favorite text editor!
 
-Thank you.
+Compatibility: Tested on Ubuntu & macOS High Sierra. Should *theoretically* run on any Linux & macOS system.

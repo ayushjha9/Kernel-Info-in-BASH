@@ -5,7 +5,7 @@ Instructions:
 1)    Set the correct user privileges by going to the directory where the .command file is saved, and then by entering the 
 following command as per the need:
 
-cd <DIRECTORY> (where DIRECTORY refers to the directory in which you've saved kernelInfo.command)
+cd #DIRECTORY# (where DIRECTORY refers to the directory in which you've saved kernelInfo.command)
 chmod u+x kernelInfo.command
   
 2)    run the kernelInfo.command file by either double-clicking on it from your file system, or by running it through terminal
